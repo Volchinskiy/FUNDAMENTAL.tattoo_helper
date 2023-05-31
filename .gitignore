@@ -1,0 +1,8 @@
+# generated files
+package-lock.json
+
+# dependences
+/node_modules
+
+# security
+.env
